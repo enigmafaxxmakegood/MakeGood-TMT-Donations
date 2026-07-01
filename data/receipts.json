@@ -3,5 +3,14 @@
     "totalRaised": 0,
     "lastUpdated": "2026-06-29"
   },
-  "receipts": 
+  "receipts": [
+    {
+      "date": "2026-06-29",
+      "category": "Example",
+      "vendor": "Sample Vendor",
+      "description": "Example expense entry. Replace this with a real donation-funded purchase.",
+      "amount": 0,
+      "proofUrl": "receipts/example-receipt.txt"
+    }
+  ]
 }
