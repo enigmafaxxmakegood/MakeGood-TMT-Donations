@@ -18,10 +18,7 @@
       "description": "Fast mobile donations. Replace with your $cashtag URL.",
       "url": "https://cash.app/$ianmuskal"
     },
-    {
-      "name": "Crypto",
-      "description": "Add your BTC, Lightning, USDC, or other public donation address page.",
-      "url": "#"
+
     }
   ]
 }
