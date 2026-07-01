@@ -4,13 +4,7 @@
     "lastUpdated": "2026-06-29"
   },
   "receipts": [
-    {
-      "date": "2026-06-29",
-      "category": "Example",
-      "vendor": "Sample Vendor",
-      "description": "Example expense entry. Replace this with a real donation-funded purchase.",
-      "amount": 42.5,
-      "proofUrl": "receipts/example-receipt.txt"
+  
     }
   ]
 }
